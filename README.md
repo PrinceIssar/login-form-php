@@ -8,4 +8,4 @@ Topics you will learn:
 Here I have taught how to create a complete user registration and login system with PHP and MySQL. I have used only HTML, CSS and JavaScript to design the login and registration form in PHP MySQL. Session is also used for SignIn & SignUp form creation using PHP and MySQL.
 
 # What we Missed the goal:-
-# To connect it with the price calculator.
+To connect it with the price calculator.
